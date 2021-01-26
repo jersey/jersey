@@ -53,7 +53,7 @@ We look forward to your continued contributions as part of the Eclipse Foundatio
 
 Thank you again for making Jersey the best that it can be.
 
-# original Jersey repository
+# Original Jersey repository
 
 Original Jersey repository (Jersey 2.0.0 - Jersey 2.26) has been moved under JavaEE organization on GitHub [6].
 
